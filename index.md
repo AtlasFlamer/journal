@@ -1,2 +1,4 @@
+usemathjax: true
+
 lalala
-$ sin(x) $
+$$ sin(x) $$
