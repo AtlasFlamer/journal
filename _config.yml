@@ -2,3 +2,6 @@ theme: jekyll-theme-cayman
 include: index.adoc
 markdown: kramdown
 
+webrick:
+  headers:
+    My-header: .
