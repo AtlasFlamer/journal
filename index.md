@@ -1,0 +1,2 @@
+lalala
+$ sin(x) $
